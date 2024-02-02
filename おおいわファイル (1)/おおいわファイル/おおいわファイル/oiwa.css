@@ -1,0 +1,49 @@
+#pro {
+  text-align: center;
+  font-size: 50px;
+ color: azure;
+  background: linear-gradient(to right, rgb(42, 42, 194), #b6d6ff);
+  margin-top: -10px;
+}
+
+body {
+  background-color: #0d3364;
+}
+
+#koduke {
+  text-align: center;
+opacity: 0.1;
+margin-left: 33%;
+}
+
+#koduke:hover {
+  transform: scale(2);
+  opacity: 1;
+}
+#ul1 {
+  list-style: none;
+  display: flex;
+}
+
+#ul2  {
+background-color: #0d3364;
+}
+
+
+#oiwa2 {
+  opacity: 0.1;
+}
+
+#oiwa2:hover {
+  opacity: 1;
+  transform: scale(2);
+}
+
+#oiwa3 {
+  opacity: 0.1;
+}
+
+#oiwa3:hover{
+  opacity: 1;  
+  transform: scale(2);
+}
